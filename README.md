@@ -20,7 +20,7 @@ It extracts article titles, translates them using RapidAPI Translate service, an
 - dotenv
 
 ### Installation
-- Clone the repository: ```git clone CrossBrowserTest```
+- Clone the repository: ```git clone https://github.com/Ashutoshvashisht007/CrossBrowserTest.git```
 
 
 
